@@ -1,6 +1,14 @@
 
 	
-	/* This files provides address values that exist in the system */
+	/* This files provides address values that exist in the system 
+		Rules: Using Space to Control the Dinosaur to avoid trees.
+			Press R to restart game
+			Clicking Push_Button 1 to start undefeated mode.
+			We set an Easter egg when the player reaches a certain points.
+
+
+	
+	*/
 
 #define SDRAM_BASE            0xC0000000
 #define FPGA_ONCHIP_BASE      0xC8000000
