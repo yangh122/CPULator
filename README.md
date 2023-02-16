@@ -4,4 +4,6 @@ Project base on CPUlator
   Language: C, ARMV7 Assembly Language
   
   Porject List: 
-                1. Dinosaur Game
+                1.Simple animation
+                2. Dinosaur Game
+                
