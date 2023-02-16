@@ -1,0 +1,1 @@
+This lab implement a program in Armv7 assembly language to find the longest 1's and 0's sequence.

@@ -1,0 +1,250 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/dashabi/OneDrive/Desktop/ECE243/lab8/part5.Verilog/sim
+vdec3to8
+Z1 !s110 1648685396
+!i10b 1
+!s100 cz[gom[bW9RaZ[Y9J5b6B0
+I;h3=JAD15a6<4O]NcPfFl1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1648628131
+Z4 8../proc.v
+Z5 F../proc.v
+L0 293
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1648685396.000000
+Z8 !s107 ../top.v|../seg7.v|../proc.v|../part5.v|../inst_mem.v|../flipflop.v|
+Z9 !s90 ../flipflop.v|../inst_mem.v|../part5.v|../proc.v|../seg7.v|../top.v|
+!i113 1
+Z10 tCvgOpt 0
+vflipflop
+R1
+!i10b 1
+!s100 4H2K_V>f3BSlSog@_SfWf0
+If;>LCi5HH2UkIZ<N0]YNc1
+R2
+R0
+w1467661640
+8../flipflop.v
+F../flipflop.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vinst_mem
+R1
+!i10b 1
+!s100 K4RmZIQj0T6D3l>Szck240
+Ia4X7][PRd9=TRP4J;ZKQ22
+R2
+R0
+w1540570524
+8../inst_mem.v
+F../inst_mem.v
+L0 39
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vpart5
+R1
+!i10b 1
+!s100 4f9@JVe[7S=QZ@Q;J3IJW0
+IkYE1E@d971]f^<l@M=LK21
+R2
+R0
+w1610688806
+8../part5.v
+F../part5.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vpc_count
+R1
+!i10b 1
+!s100 n>HoIJfJATLjKUB<6dLEX1
+I4UEc=RAZKmP71AhYMX`[V1
+R2
+R0
+R3
+R4
+R5
+L0 278
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vproc
+R1
+!i10b 1
+!s100 Hc=Ijm:JSboVA3`VnKl9f1
+I[D]=k:L@@mMN?O9M2V1nC1
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vreg1
+R1
+!i10b 1
+!s100 zXQOliPRob@Zh5K2^gAoS2
+ITb8:H<bXl6]W7jDHhO=RF3
+R2
+R0
+R3
+R4
+R5
+L0 329
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vreg7
+R1
+!i10b 1
+!s100 :JQ5SZl@f:ig;Hj<4?n<O0
+IS9K6[meLTM;^67`iWNz@n1
+R2
+R0
+Z11 w1611114200
+Z12 8../seg7.v
+Z13 F../seg7.v
+L0 19
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vregn
+R1
+!i10b 1
+!s100 5PBGnEXaEY79PXF:8EEaT3
+I2G=QP`0nD5`_YaUBIDTEI2
+R2
+R0
+R3
+R4
+R5
+L0 315
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vseg7
+R1
+!i10b 1
+!s100 fZ^8h1^TZ^[VTz1Y7;M:a2
+IZ2dK`;Sf6WkG2kT7:67Zl3
+R2
+R0
+R11
+R12
+R13
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vtb
+R1
+!i10b 1
+!s100 hTj^;2FV1Y2mRD]WDVX8>1
+I5]nGZE=WJP0?3<G>Yld9N0
+R2
+R0
+w1608747260
+8../tb/tb.v
+F../tb/tb.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+!s107 ../tb/tb.v|
+!s90 ../tb/tb.v|
+!i113 1
+R10
+vtop
+R1
+!i10b 1
+!s100 JWYd6[53kB_^Jh95I7OzJ2
+I5ce[AiBKCdh@bVQKTlJ3A0
+R2
+R0
+w1607288498
+8../top.v
+F../top.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10

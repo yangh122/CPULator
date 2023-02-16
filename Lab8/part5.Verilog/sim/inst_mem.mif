@@ -1,0 +1,41 @@
+WIDTH = 16;
+DEPTH = 256;
+ADDRESS_RADIX = HEX;
+DATA_RADIX = HEX;
+
+CONTENT
+BEGIN
+0		: 1400;		% mv   r2, #0x0000 %
+1		: 1630;		% mv   r3, #0x0030 %
+2		: 3830;		% mvt  r4, #0x0030 %
+3		: 3010;		% mvt  r0, #0x0010 %
+4		: 3a01;		% mvt  r5, #0x0001 %
+5		: 1cff;		% mv   r6, #0x00ff %
+6		: 4a06;		% add  r5, r6 %
+7		: 0202;		% mv   r1, r2 %
+8		: 6205;		% sub  r1, r5 %
+9		: 2211;		% beq  0x1b %
+a		: 7601;		% sub  r3, #0x0001 %
+b		: 2201;		% beq  0xd %
+c		: 21fd;		% b    0xa %
+d		: 5401;		% add  r2, #0x0001 %
+e		: 1630;		% mv   r3, #0x0030 %
+f		: a400;		% st   r2, [r0] %
+10		: 8204;		% ld   r1, [r4] %
+11		: d202;		% and  r1, #0x0002 %
+12		: 0c01;		% mv   r6, r1 %
+13		: 7c01;		% sub  r6, #0x0001 %
+14		: 2a08;		% bpl  0x1d %
+15		: 8204;		% ld   r1, [r4] %
+16		: d201;		% and  r1, #0x0001 %
+17		: 0c01;		% mv   r6, r1 %
+18		: 7c01;		% sub  r6, #0x0001 %
+19		: 2205;		% beq  0x1f %
+1a		: 21ec;		% b    0x7 %
+1b		: 1400;		% mv   r2, #0x0000 %
+1c		: 21ed;		% b    0xa %
+1d		: 5620;		% add  r3, #0x0020 %
+1e		: 21e8;		% b    0x7 %
+1f		: 7620;		% sub  r3, #0x0020 %
+20		: 21e6;		% b    0x7 %
+END;
